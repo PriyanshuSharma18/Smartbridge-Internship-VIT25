@@ -126,6 +126,8 @@ Version Control: GitHub
 
 Documentation: Word (.docx)
 
+Demo Video:https://drive.google.com/file/d/1LSfd-sJ1a2syAMYGDALqTMDyNEIaQT1b/view?usp=sharing
+
 🙏 Special Thanks
 We extend our sincere gratitude to Bhanu Sir, our mentor, whose constant support, insights, and encouragement helped shape this project to success.
 
